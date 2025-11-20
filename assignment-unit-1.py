@@ -11,7 +11,7 @@ print("==>> b- display location information <<==")
 city = "Marrakech"
 country = "Morocco"
 continent = "Africa"
-print(f"Location : {city}, {country}, {continent}")
+print(f"Location : {city}, {country}, {continent}") 
 
 print("==>> c- Examination schedule <<==")
 
