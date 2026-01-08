@@ -1,0 +1,6 @@
+web-01: Frontend, API
+db-primary: Database
+web-02: Frontend
+cache-01: Redis
+db-replica: Database, Backup
+monitor-01: Prometheus, Grafana

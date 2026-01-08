@@ -1,0 +1,7 @@
+Frontend: web-01, web-02
+API: web-01
+Database: db-primary, db-replica
+Redis: cache-01
+Backup: db-replica
+Prometheus: monitor-01
+Grafana: monitor-01
