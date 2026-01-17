@@ -35,7 +35,6 @@ original_data = {
 # Execution
 inverted_data = invert_enrollment(original_data)
 
-# Output Generation
 print("Original Dictionary:")
 print(original_data)
 
